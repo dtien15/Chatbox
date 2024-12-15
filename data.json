@@ -1,0 +1,76 @@
+{
+    "questions": [
+      {
+        "question": "Tải tài liệu tham khảo",
+        "response": "Chọn một tài liệu bạn muốn tải xuống.",
+        "options": [
+          {
+            "option": "Tài liệu phần mềm quản lý bệnh viện",
+            "file": "/pdf/Catalog Bệnh Viện Đa Khoa.pdf"
+          },
+          {
+            "option": "Tài liệu phần mềm phòng khám đa khoa",
+            "file": "/pdf/Catalog PK Đa Khoa.pdf"
+          },
+          {
+            "option": "Tài liệu phần mềm nha khoa",
+            "file": "/pdf/Catalog Nha Khoa.pdf"
+          },
+          {
+            "option": "Tài liệu phần mềm quản lý bán hàng",
+            "file": "/pdf/Catalog web bán hàng.pdf"
+          }
+        ]
+      },
+      {
+        "question": "Sản phẩm của SixOs?",
+        "response": "Chúng tôi cung cấp 4 loại phần mềm quản lý cho bệnh viện và phòng khám.",
+        "options": [
+          {
+            "option": "Phần mềm quản lý bệnh viện đa khoa",
+            "link": "https://sixossoft.com/phan-mem-quan-ly-phong-kham-da-khoa"
+          },
+          {
+            "option": "Phần mềm quản lý phòng khám nha khoa",
+            "link": "https://sixossoft.com/phan-mem-quan-ly-nha-khoa"
+          },
+          {
+            "option": "Phần mềm quản lý bán hàng",
+            "link": "https://sixossoft.com/phan-mem-quan-ly-ban-hang"
+          },
+          {
+            "option": "Phần mềm quản lý bệnh viện",
+            "link": "https://sixossoft.com/phan-mem-quan-ly-tong-the-benh-vien"
+          }
+        ]
+      },
+      {
+        "question": "Liên hệ?",
+        "response": "Thông tin liên hệ: </br> ☎️: <a  href='tel:0901 878 896'>0901 878 896</a> - <a  href='tel:0364 956 007'>0364 956 007</a>  </br> 📧: <a href='mailto:sixossoft@gmail.com'>sixossoft@gmail.com</a> </br> <img src='/facebook-logo.png'/>: <a href='https://www.facebook.com/example' target='_blank'>SixOs Software</a>"
+      },
+      {
+        "question": "Chức năng phần mềm?",
+        "response": "Chọn chức năng phần mềm bạn muốn tìm hiểu.",
+        "options": [
+          {
+            "option": "Quản lý bệnh viện",
+            "featureDetails": "Quản lý bệnh viện giúp bạn theo dõi bệnh nhân, hồ sơ y tế, lịch sử điều trị, và quản lý phòng ban."
+          },
+          {
+            "option": "Quản lý phòng khám",
+            "featureDetails": "Quản lý phòng khám giúp tối ưu hóa quy trình khám chữa bệnh, từ việc đặt lịch khám đến việc theo dõi kết quả xét nghiệm."
+          },
+          {
+            "option": "Quản lý bán hàng",
+            "featureDetails": "Quản lý bán hàng giúp bạn theo dõi doanh thu, quản lý kho hàng, và dễ dàng tạo báo cáo tài chính."
+          },
+          {
+            "option": "Quản lý nha khoa",
+            "featureDetails": "<ul><li>a</li></ul>Quản lý nha khoa hỗ trợ bạn trong việc quản lý lịch hẹn khám, theo dõi tình trạng sức khỏe răng miệng của bệnh nhân."
+          }
+        ]
+      }
+      
+    ]
+  }
+  
